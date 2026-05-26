@@ -1,0 +1,6 @@
+{
+  "name": "Root Checker",
+  "description": "A comprehensive Android root access and system integrity detection tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
